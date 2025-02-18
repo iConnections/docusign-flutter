@@ -11,7 +11,7 @@ dependencies:
   dart_jsonwebtoken: ^2.5.1
   flutter:
     sdk: flutter
-  http: ^0.13.5
+  http: ^1.2.2
   path_provider: ^2.0.11
   plugin_platform_interface: ^2.0.2
   webview_flutter: ^3.0.4
